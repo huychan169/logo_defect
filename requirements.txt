@@ -1,0 +1,17 @@
+# Deep learning
+torch
+torchvision
+
+# Object detection (YOLOv8)
+ultralytics
+
+# Computer vision
+opencv-python
+Pillow
+
+# Embedding + CLIP
+transformers
+faiss-cpu
+
+# Utils
+numpy

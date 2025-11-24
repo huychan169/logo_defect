@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\images_fake2.jpg",
+  "bbox": [
+    21,
+    108,
+    94,
+    160
+  ],
+  "score": 0.8940837979316711,
+  "crop": "data\\crops\\images_fake2_crop_0.89.png"
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_1.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_10.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_11.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_12.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_13.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_2.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_3.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_4.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_5.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_6.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_7.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_8.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\fake\\adidas_fake_9.jpg",
+    "brand": "adidas",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_1.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_10.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_11.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_12.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_13.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_14.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_15.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_16.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_17.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_18.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_2.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_3.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_4.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_5.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_6.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_7.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_8.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\adidas\\real\\adidas_9.jpg",
+    "brand": "adidas",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_1.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_10.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_11.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_12.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_13.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_2.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_3.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_4.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_5.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_6.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_7.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_8.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\fake\\nike_fake_9.jpg",
+    "brand": "nike",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_1.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_10.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_11.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_12.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_13.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_14.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_15.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_16.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_17.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_18.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_2.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_3.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_4.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_5.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_6.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_7.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_8.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\nike\\real\\nike_9.jpg",
+    "brand": "nike",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_1.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_10.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_11.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_2.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_3.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_4.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_5.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_6.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_7.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_8.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\fake\\puma_fake_9.jpg",
+    "brand": "puma",
+    "variant": "fake"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_1.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_10.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_11.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_12.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_13.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_14.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_15.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_16.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_17.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_18.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_2.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_3.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_4.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_5.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_6.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_7.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_8.jpg",
+    "brand": "puma",
+    "variant": "real"
+  },
+  {
+    "path": "data\\gallery\\puma\\real\\puma_9.jpg",
+    "brand": "puma",
+    "variant": "real"
+  }
+]

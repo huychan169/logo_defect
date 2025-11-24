@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\adidaspng.png",
+  "bbox": [
+    56,
+    122,
+    220,
+    170
+  ],
+  "score": 0.8252403140068054,
+  "crop": "data\\crops\\adidaspng_crop_0.83.png"
+}

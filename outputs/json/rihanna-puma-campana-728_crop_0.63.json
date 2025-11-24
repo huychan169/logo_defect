@@ -1,0 +1,8 @@
+{
+  "crop": "rihanna-puma-campana-728_crop_0.63.png",
+  "pred_brand": "adidas",
+  "gallery_item": "data\\gallery\\adidas\\image_13.jpg",
+  "similarity": 0.7282015085220337,
+  "decision": "adidas_real",
+  "annotated_image": "outputs\\annotated\\rihanna-puma-campana-728_crop_0.63_annotated.png"
+}

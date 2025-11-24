@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\logo_detect_v1.1-2\\test\\images\\puma_0013_jpeg.rf.1b7a5f875549f6555bb35f7e9fa39c88.jpg",
+  "bbox": [
+    302,
+    156,
+    429,
+    228
+  ],
+  "score": 0.8820063471794128,
+  "crop": "data\\crops\\puma_0013_jpeg.rf.1b7a5f875549f6555bb35f7e9fa39c88_crop_0.88.png"
+}

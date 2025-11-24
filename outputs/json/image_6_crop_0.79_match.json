@@ -1,0 +1,7 @@
+{
+  "crop": "data\\crops\\image_6_crop_0.79.png",
+  "pred_brand": "nike",
+  "gallery_item": "data\\gallery\\nike\\nike_2.png",
+  "similarity": 0.856521487236023,
+  "decision": "nike"
+}

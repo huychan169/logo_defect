@@ -1,0 +1,8 @@
+{
+  "crop": "nike_4_crop_0.84.png",
+  "pred_brand": "adidas",
+  "gallery_item": "data\\gallery\\adidas\\image_13.jpg",
+  "similarity": 0.7731964588165283,
+  "decision": "adidas_real",
+  "annotated_image": "outputs\\annotated\\nike_4_crop_0.84_annotated.png"
+}

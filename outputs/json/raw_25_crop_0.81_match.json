@@ -1,0 +1,7 @@
+{
+  "crop": "data\\crops\\raw_25_crop_0.81.png",
+  "pred_brand": "puma",
+  "gallery_item": "data\\gallery\\puma\\puma_1.jpg",
+  "similarity": 0.7571308612823486,
+  "decision": "puma_real"
+}

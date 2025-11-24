@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\logo_detect_v1.1-2\\train\\images\\2_jpg.rf.acb79d67363856cadf4ef157bbe2ff54.jpg",
+  "bbox": [
+    57,
+    12,
+    629,
+    461
+  ],
+  "score": 0.8619897961616516,
+  "crop": "data\\crops\\2_jpg.rf.acb79d67363856cadf4ef157bbe2ff54_crop_0.86.png"
+}

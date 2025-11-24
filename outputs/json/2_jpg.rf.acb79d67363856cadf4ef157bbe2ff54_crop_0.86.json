@@ -1,0 +1,8 @@
+{
+  "crop": "2_jpg.rf.acb79d67363856cadf4ef157bbe2ff54_crop_0.86.png",
+  "pred_brand": "adidas",
+  "gallery_item": "data\\gallery\\adidas\\image_9.jpg",
+  "similarity": 0.8338997960090637,
+  "decision": "adidas_real",
+  "annotated_image": "outputs\\annotated\\2_jpg.rf.acb79d67363856cadf4ef157bbe2ff54_crop_0.86_annotated.png"
+}

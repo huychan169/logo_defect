@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\rihanna-puma-campana-728.jpg",
+  "bbox": [
+    278,
+    216,
+    415,
+    305
+  ],
+  "score": 0.6286569237709045,
+  "crop": "data\\crops\\rihanna-puma-campana-728_crop_0.63.png"
+}

@@ -1,0 +1,11 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\nike_4.jpg",
+  "bbox": [
+    60,
+    87,
+    137,
+    123
+  ],
+  "score": 0.84214848279953,
+  "crop": "data\\crops\\nike_4_crop_0.84.png"
+}

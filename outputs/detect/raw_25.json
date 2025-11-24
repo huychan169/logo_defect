@@ -1,0 +1,16 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\raw_25.jpg",
+  "detections": [
+    {
+      "cls": 4,
+      "conf": 0.8084915280342102,
+      "bbox": [
+        152,
+        102,
+        199,
+        121
+      ],
+      "crop": "data\\crops\\raw_25_crop0_0.81.png"
+    }
+  ]
+}

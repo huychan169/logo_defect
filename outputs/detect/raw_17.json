@@ -1,0 +1,38 @@
+{
+  "file": "D:\\khanhsh\\data\\images_raw\\raw_17.jpg",
+  "detections": [
+    {
+      "cls": 3,
+      "conf": 0.6508045792579651,
+      "bbox": [
+        388,
+        204,
+        437,
+        271
+      ],
+      "crop": "data\\crops\\raw_17_crop0_0.65.png"
+    },
+    {
+      "cls": 4,
+      "conf": 0.6258876919746399,
+      "bbox": [
+        277,
+        216,
+        415,
+        305
+      ],
+      "crop": "data\\crops\\raw_17_crop1_0.63.png"
+    },
+    {
+      "cls": 4,
+      "conf": 0.5586960911750793,
+      "bbox": [
+        280,
+        214,
+        414,
+        306
+      ],
+      "crop": "data\\crops\\raw_17_crop2_0.56.png"
+    }
+  ]
+}

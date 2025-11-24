@@ -1,0 +1,18 @@
+names:
+- Adidas
+- Adidas Logo
+- Adidas SB
+- Puma
+- Puma_text
+- nike
+- nike_text
+nc: 7
+roboflow:
+  license: Public Domain
+  project: logo_detect_v1.1
+  url: https://universe.roboflow.com/farbros/logo_detect_v1.1/dataset/2
+  version: 2
+  workspace: farbros
+test: ../test/images
+train: ../train/images
+val: ../valid/images

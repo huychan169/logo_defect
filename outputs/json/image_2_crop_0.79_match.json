@@ -1,0 +1,7 @@
+{
+  "crop": "data\\crops\\image_2_crop_0.79.png",
+  "pred_brand": "adidas",
+  "gallery_item": "data\\gallery\\adidas\\image_13.jpg",
+  "similarity": 0.8357837200164795,
+  "decision": "adidas"
+}
